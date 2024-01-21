@@ -1,0 +1,42 @@
+.wrapper {
+    height: 860px;
+    width: 989px;
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.body{
+    display: flex;
+    width: 100%;
+}
+.header{
+    height: 30px;
+    width: 100%;
+    border: solid;
+    background-color: aquamarine;
+
+}
+.nav{
+    height: 150px;
+    width: 25%;
+    border: solid;
+    background-color: aquamarine;
+
+}
+.content{
+    height: 150px;
+    width: 50%;
+    border: solid;
+    background-color: aquamarine;
+}
+.section{
+    height: 150px;
+    width: 26%;
+    border: solid;
+    background-color: aquamarine;
+}
+.footer{
+    height: 30px;
+    width: 100%;
+    background-color: aquamarine;
+    border: solid;
+}

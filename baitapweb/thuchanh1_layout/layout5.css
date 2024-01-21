@@ -1,0 +1,35 @@
+.header{
+    height: 30px;
+    width: 100%;
+    background-color:blueviolet;
+    border: solid;
+}
+.body{
+    display: flex;
+}
+.nav{
+    width: 100%;
+    height: 30px;
+    border: solid;
+    background-color: blueviolet;
+}
+.section {
+    width: 100%; 
+    margin: 0 auto; 
+    padding: 10px; 
+    background-color:blueviolet; 
+    border: solid;
+  }
+  
+.article {
+    height: 70px;
+    border: 1px solid #ccc; 
+    padding: 10px;
+    background-color: #fff; 
+  }
+
+  .footer{
+    height: 30px;
+    width: 100%;
+    background-color:blueviolet;
+    border: solid;}
